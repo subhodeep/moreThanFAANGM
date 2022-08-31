@@ -24,6 +24,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
    <table>
       <thead>
          <tr>
+		    <th align="left"></th>
             <th align="left"></th>
             <th align="left"></th>
             <th align="left"></th>
@@ -42,6 +43,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
+		    <td align="left"><a href="#AIM">AIM</a></td>
             <td align="left"><a href="#A">A</a></td>
             <td align="left"><a href="#B">B</a></td>
             <td align="left"><a href="#C">C</a></td>
@@ -72,6 +74,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
             <td align="left"><a href="#Z">Z</a></td>
             <td align="left"><a href="#0-9">0-9</a></td>
             <td align="left"></td>
+			<td align="left"></td>
          </tr>
       </tbody>
    </table>
@@ -105,6 +108,33 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
  
 <!-- ## A   -->
+<h2 id="AIM">AIM</h2>  
+
+1. [Adobe](https://www.adobe.com/careers.html)  
+1. [Airbnb](https://careers.airbnb.com/)   
+1. [Amazon](https://www.amazon.jobs/en/)    
+1. [Apple](https://www.apple.com/careers/us/) 
+1. [Atlassian](https://www.atlassian.com/company/careers)  
+1. [facebook](https://www.facebook.com/careers/jobs/) 
+1. [Goldman Sachs](https://www.goldmansachs.com/careers/)   
+1. [Google](https://careers.google.com/)
+1. [Hotstar](https://tech.hotstar.com/)
+1. [Intuit](https://www.intuit.com/careers/)
+1. [LinkedIn](https://careers.linkedin.com/)
+1. [Microsoft](https://careers.microsoft.com/us/en)
+1. [Paytm](https://paytm.com/careers/) 
+1. [Red hat](https://www.redhat.com/en/jobs) 
+1. [Salesforce](https://www.salesforce.com/)  
+1. [SAP](https://jobs.sap.com/) 
+1. [Uber](https://www.uber.com/us/en/careers/)  
+1. [Vmware](https://careers.vmware.com/main/)
+1. [Walmart](https://careers.walmart.com/technology) 
+ 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
 <h2 id="A">A</h2>  
 
 1. [Accolite software](https://www.accolite.com/careers)  
