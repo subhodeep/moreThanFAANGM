@@ -129,6 +129,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Uber](https://www.uber.com/us/en/careers/)  
 1. [Vmware](https://careers.vmware.com/main/)
 1. [Walmart](https://careers.walmart.com/technology) 
+1. [LinkedIn JobView](https://www.linkedin.com/jobs/view/)
+1. [Instahire](https://www.instahyre.com/)
  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
