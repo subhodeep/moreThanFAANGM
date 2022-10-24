@@ -46,8 +46,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <!-- ## AIM   -->
 <h2 id="AIM">AIM</h2>  
 
-1. [Adobe](https://www.adobe.com/careers.html)  
-1. [Airbnb](https://careers.airbnb.com/)   
+1. [Airbnb - direct with linkedin](https://careers.airbnb.com/)   
 1. [Amazon - amazon Id](https://www.amazon.jobs/en/)    
 1. [Apple - apple Id](https://www.apple.com/careers/us/) 
 1. [Atlassian - linkedin + joblever.co](https://www.atlassian.com/company/careers)  
