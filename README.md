@@ -48,47 +48,34 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 1. [Adobe](https://www.adobe.com/careers.html)  
 1. [Airbnb](https://careers.airbnb.com/)   
-1. [Amazon](https://www.amazon.jobs/en/)    
-1. [Apple](https://www.apple.com/careers/us/) 
-1. [Atlassian](https://www.atlassian.com/company/careers)  
-1. [facebook](https://www.facebook.com/careers/jobs/) 
-1. [Goldman Sachs](https://www.goldmansachs.com/careers/)   
-1. [Google](https://careers.google.com/)
-1. [Hotstar](https://tech.hotstar.com/)
-1. [Intuit](https://www.intuit.com/careers/)
-1. [LinkedIn](https://careers.linkedin.com/)
-1. [Microsoft](https://careers.microsoft.com/us/en)
-1. [Paytm](https://paytm.com/careers/) 
-1. [Red hat](https://www.redhat.com/en/jobs) 
-1. [Salesforce](https://www.salesforce.com/)  
-1. [SAP](https://jobs.sap.com/) 
-1. [Uber](https://www.uber.com/us/en/careers/)  
-1. [Vmware](https://careers.vmware.com/main/)
+1. [Amazon - amazon Id](https://www.amazon.jobs/en/)    
+1. [Apple - apple Id](https://www.apple.com/careers/us/) 
+1. [Atlassian - linkedin + joblever.co](https://www.atlassian.com/company/careers)  
+1. [Facebook](https://www.facebook.com/careers/jobs/) 
+1. [Goldman Sachs - gmail + otp](https://www.goldmansachs.com/careers/)   
+1. [Google - gmail ](https://careers.google.com/)
+1. [Hotstar linkedin + joblever.co](https://tech.hotstar.com/)
+1. [Intuit - gmail + jobpsw](https://www.intuit.com/careers/)
+1. [LinkedIn - linkedin easy apply](https://careers.linkedin.com/)
+1. [Microsoft - microsoft Id](https://careers.microsoft.com/us/en)
+1. [Paytm - linkedin + joblever.co](https://paytm.com/careers/) 
+1. [Red hat - gmail + jobpsw](https://www.redhat.com/en/jobs) 
+1. [Salesforce - gmail + jobpsw](https://www.salesforce.com/)  
+1. [SAP - gmail + jobpsw](https://jobs.sap.com/) 
+1. [Uber - gmail + jobpsw](https://www.uber.com/us/en/careers/)  
+1. [Vmware - gmail + jobpsw](https://careers.vmware.com/main/)
 1. [Walmart](https://careers.walmart.com/technology) 
-1. [LinkedIn JobView](https://www.linkedin.com/jobs/view/)
+1. [Bloomberg LP](https://careers.bloomberg.com/job/search)
+1. [Cred](https://careers.cred.club/)  
+1. [Cisco](https://jobs.cisco.com/)  
+1. [CoinDCX](https://careers.coindcx.com/)  
+1. [Coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
+1. [Groww](https://groww.skillate.com/)  
+1. [McKinsey](https://www.mckinsey.com/in/careers-in-india)
+1. [Stripe](https://stripe.com/in/jobs)  
 1. [Instahire](https://www.instahyre.com/)
- 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-  
 
 ## Guidelines
   
