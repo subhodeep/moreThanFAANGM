@@ -64,16 +64,15 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [SAP - gmail + jobpsw](https://jobs.sap.com/) 
 1. [Uber - gmail + jobpsw](https://www.uber.com/us/en/careers/)  
 1. [Vmware - gmail + jobpsw](https://careers.vmware.com/main/)
-1. [Walmart](https://one.walmart.com/content/globaltechindia/en_in/results.html?job_function=&job_function=Software%20Engineering&loc_filter=Bengaluru) 
-1. [Bloomberg LP](https://careers.bloomberg.com/job/search)
-1. [Cred](https://careers.cred.club/)  
-1. [Cisco](https://jobs.cisco.com/)  
-1. [CoinDCX](https://careers.coindcx.com/)  
-1. [Coinswitch Kuber](https://recruiterflow.com/coinswitch/jobs)  
+1. [Walmart - gmail + jobpsw](https://one.walmart.com/content/globaltechindia/en_in/results.html?job_function=&job_function=Software%20Engineering&loc_filter=Bengaluru) 
+1. [Bloomberg LP - linkedin](https://careers.bloomberg.com/job/search)
+1. [Cred - direct+ resume upload](https://careers.cred.club/) 
+1. [Cisco - gmail + jobpsw](https://jobs.cisco.com/)  
+1. [McKinsey - reachout linkedin recruiters](https://www.mckinsey.com/in/careers-in-india)
 1. [Groww](https://groww.skillate.com/)  
-1. [McKinsey](https://www.mckinsey.com/in/careers-in-india)
 1. [Stripe](https://stripe.com/in/jobs)  
-1. [Instahire](https://www.instahyre.com/)
+1. [Instahire](https://www.instahyre.com/) 
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
