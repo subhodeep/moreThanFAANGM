@@ -65,7 +65,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [SAP - gmail + jobpsw](https://jobs.sap.com/) 
 1. [Uber - gmail + jobpsw](https://www.uber.com/us/en/careers/)  
 1. [Vmware - gmail + jobpsw](https://careers.vmware.com/main/)
-1. [Walmart](https://careers.walmart.com/technology) 
+1. [Walmart](https://one.walmart.com/content/globaltechindia/en_in/results.html?job_function=&job_function=Software%20Engineering&loc_filter=Bengaluru) 
 1. [Bloomberg LP](https://careers.bloomberg.com/job/search)
 1. [Cred](https://careers.cred.club/)  
 1. [Cisco](https://jobs.cisco.com/)  
