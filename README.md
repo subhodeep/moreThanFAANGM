@@ -72,6 +72,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Groww](https://groww.skillate.com/)  
 1. [Stripe](https://stripe.com/in/jobs)  
 1. [Instahire](https://www.instahyre.com/) 
+1. [International - Hiring from India I] (https://gist.github.com/idontknowjs/22f3257bed32dd3ab99ff22316e51eb8/)
+1. [International - Hiring from India II] (https://github.com/shubheksha/companies-sponsoring-visas/)
+1. [Arbeitnow - Visa Sponsorship Job Germany] (https://www.arbeitnow.com/visa-sponsorship-jobs)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
