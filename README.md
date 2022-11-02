@@ -68,7 +68,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Bloomberg LP - linkedin](https://careers.bloomberg.com/job/search)
 1. [Cred - direct + resume upload](https://careers.cred.club/) 
 1. [Cisco - gmail + jobpsw](https://jobs.cisco.com/)  
-1. [McKinsey - reachout linkedin recruiters](https://www.mckinsey.com/in/careers-in-india)
+1. [McKinsey - gmail + jobpsw + reachout linkedin recruiters](https://www.mckinsey.com/in/careers-in-india)
 1. [Groww - direct + resume upload](https://groww.skillate.com/)  
 1. [Stripe - linkedin](https://stripe.com/in/jobs)  
 1. [Instahire](https://www.instahyre.com/) 
